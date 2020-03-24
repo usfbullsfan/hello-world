@@ -1,4 +1,4 @@
 # hello-world
 hello world (:
 
-I'm getting to know how github works.
+BU Projects, CS50, and who knows what else to come...
